@@ -1,7 +1,10 @@
 # 2021-aoc
 About:    https://adventofcode.com/2021/about
 Day Link: https://adventofcode.com/2021/day/1
-
+  
+**Plan of Attack**
+- Python via Jupyter Lab
+  
 **File naming convention:**  
 2021AocDayXXYY-ZZ  
 - XX - day number  
