@@ -6,10 +6,9 @@ Day Link: https://adventofcode.com/2021/day/1
 - Python via Jupyter Lab
   
 **File naming convention:**  
-2021AocDayXXYY-ZZ  
+2021AocDayXX-YY 
 - XX - day number  
-- YY - puzzle number  
-- ZZ - file type (input, output, code, etc)  
+- YY - file type (input, output, program, etc) 
   
 **Day 1**
 - import text file contents
