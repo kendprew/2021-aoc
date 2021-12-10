@@ -1,0 +1,25 @@
+Day 01 - complete
+Day 02 - complete
+Day 03 - complete (covert to decimal incomplete)
+Day 04 - complete (generate board score in script)
+Day 05 - complete
+Day 06 - complete
+Day 07 - complete
+Day 08 - complete
+Day 09 - p1__ complete - p2 incomplete, determine largest three basins
+Day 10 - ____ incomplete
+Day 11 - ____ incomplete
+Day 12 - ____ incomplete
+Day 13 - ____ incomplete
+Day 14 - ____ incomplete
+Day 15 - ____ incomplete
+Day 16 - ____ incomplete
+Day 17 - ____ incomplete
+Day 18 - ____ incomplete
+Day 19 - ____ incomplete
+Day 20 - ____ incomplete
+Day 21 - ____ incomplete
+Day 22 - ____ incomplete
+Day 23 - ____ incomplete
+Day 24 - ____ incomplete
+Day 25 - ____ incomplete
