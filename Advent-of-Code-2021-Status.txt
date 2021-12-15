@@ -1,17 +1,17 @@
-Day 01 - complete
-Day 02 - complete
-Day 03 - complete (covert to decimal incomplete)
-Day 04 - complete (generate board score in script)
-Day 05 - complete
-Day 06 - complete
-Day 07 - complete
-Day 08 - complete
-Day 09 - p1__ complete - p2 incomplete, determine largest three basins
-Day 10 - ____ incomplete
-Day 11 - ____ incomplete
-Day 12 - ____ incomplete
-Day 13 - ____ incomplete
-Day 14 - ____ incomplete
+Day 01 - complete, 0.0035, 0.003
+Day 02 - complete, 0.0022, 0.003
+Day 03 - complete,  N/A, N/A (covert to decimal incomplete)
+Day 04 - complete, N/A, N/A (generate board score in script)
+Day 05 - complete, 0.012, 0.3786
+Day 06 - complete, 3.6343, 0.0036
+Day 07 - complete, 9.5557, 12.9438
+Day 08 - complete, 0.0016, 0.0378
+Day 09 - complete, 0.0299, 0.3884
+Day 10 - complete
+Day 11 - complete
+Day 12 - ____ incomplete, cave graph algorithm required 
+Day 13 - complete
+Day 14 - p1__ complete - p2 incomplete, optimize polymer length prediction
 Day 15 - ____ incomplete
 Day 16 - ____ incomplete
 Day 17 - ____ incomplete
